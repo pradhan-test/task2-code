@@ -8,14 +8,10 @@ print "\n";
 print "                    ";
 print "My Webserver Launched!!";
 print "\n";
-
-print "                    ";
 print `free -m`;
 
-print "                    ";
 print `ifconfig`;
 
-print "                    ";
 print `date`;
 
 ?>
